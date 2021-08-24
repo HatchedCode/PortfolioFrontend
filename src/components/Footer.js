@@ -7,7 +7,7 @@ class Footer extends React.Component {
             <footer>
                 <div className="row">
                     <div className="twelve columns">
-                        <Networks/>
+                        <Networks data={this.props.data}/>
             
                         <ul className="copyright">
                             <li>&copy; Copyright Osman Bakari.</li>
