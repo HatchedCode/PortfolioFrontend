@@ -45,7 +45,7 @@ class Header extends React.Component {
          <div className="row banner">
             <div className="banner-text">
                <h1 className="responsive-headline">Hello,<br/>I'm {"Osman Bakari"}</h1>
-               <h3>I am a recent <span>{"computer science graduate"}</span> located in <span>{"Seattle, WA USA"}</span><br/> {"Currently, I am actively seeking a full-time opportunities in the fields of computer science and software engineering. "}.</h3>
+               <h3>I am a recent <span>{"computer science graduate"}</span> located in <span>{"Seattle, WA USA"}</span><br/> {"Currently, I am actively seeking a full-time opportunity in the fields of computer science and software engineering. "}.</h3>
                <hr/>
                <ul className="social">
                   {networks}
